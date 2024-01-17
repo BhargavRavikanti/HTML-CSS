@@ -3,3 +3,15 @@ https://codepen.io/
 https://developer.mozilla.org/en-US/
 
 https://fonts.google.com/
+
+CSS Units
+Absolute length units
+The following are all absolute length units — they are not relative to anything else, and are generally considered to always be the same size.
+Ex:px,pt,cm,in,mm
+
+Relative length units
+Relative length units are relative to something else, perhaps the size of the parent element's font, or the size of the viewport. The benefit of using relative units is that with some careful planning you can make it so the size of text or other elements scales relative to everything else on the page.
+Ex:em,rem,vh,vw,% and more
+
+
+ 
