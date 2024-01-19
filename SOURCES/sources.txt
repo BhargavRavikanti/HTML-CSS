@@ -24,3 +24,14 @@ To get emojis window key + .(full stop)
  *{
   border:1px solid red;
  }
+
+ body {
+  background-color: red;
+}
+
+Responsive Rules
+@media (min-width: 800px) {
+  body {
+    background-color: cyan; // if min-width above 800 cyan will apply
+  }
+}
