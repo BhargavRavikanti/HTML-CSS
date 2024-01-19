@@ -20,3 +20,7 @@ To get emojis window key + .(full stop)
  https://thebigbrains.com/important-file-extensions-in-computer/
 
  https://codepen.io/Colt/pen/BaPOWQz?editors=0100
+
+ *{
+  border:1px solid red;
+ }
